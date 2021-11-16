@@ -1,0 +1,256 @@
+[
+	{
+			"sub": 1,
+			"location": "Vancouver",
+			"month": "January",
+			"dayLight": "9:22",
+			"hourlyMeanTemperature": "5.4"
+	},
+	{
+			"sub": 2,
+			"location": "Vancouver",
+			"month": "February",
+			"dayLight": "10:57",
+			"hourlyMeanTemperature": "3.5"
+	},
+	{
+			"sub": 3,
+			"location": "Vancouver",
+			"month": "March",
+			"dayLight": "13:11",
+			"hourlyMeanTemperature": "6.5"
+	},
+	{
+			"sub": 4,
+			"location": "Vancouver",
+			"month": "April",
+			"dayLight": "14:35",
+			"hourlyMeanTemperature": "9.8"
+	},
+	{
+			"sub": 5,
+			"location": "Vancouver",
+			"month": "May",
+			"dayLight": "15:56",
+			"hourlyMeanTemperature": "12.7"
+	},
+	{
+			"sub": 6,
+			"location": "Vancouver",
+			"month": "June",
+			"dayLight": "16:16",
+			"hourlyMeanTemperature": "17.7"
+	},
+	{
+			"sub": 7,
+			"location": "Vancouver",
+			"month": "July",
+			"dayLight": "16:11",
+			"hourlyMeanTemperature": "19.2"
+	},
+	{
+			"sub": 8,
+			"location": "Vancouver",
+			"month": "August",
+			"dayLight": "15.08",
+			"hourlyMeanTemperature": "18.7"
+	},
+	{
+			"sub": 9,
+			"location": "Vancouver",
+			"month": "September",
+			"dayLight": "13.27",
+			"hourlyMeanTemperature": "14.9"
+	},
+	{
+			"sub": 10,
+			"location": "Vancouver",
+			"month": "October",
+			"dayLight": "11.38",
+			"hourlyMeanTemperature": "11.5"
+	},
+	{
+			"sub": 11,
+			"location": "Vancouver",
+			"month": "November",
+			"dayLight": "9:50",
+			"hourlyMeanTemperature": "6.6"
+	},
+	{
+			"sub": 12,
+			"location": "Vancouver",
+			"month": "December",
+			"dayLight": "8.37",
+			"hourlyMeanTemperature": "5.4"
+	},
+
+	{
+			"sub": 13,
+			"location": "West Vancouver",
+			"month": "January",
+			"dayLight": "9:22",
+			"hourlyMeanTemperature": "5"
+	},
+	{
+			"sub": 14,
+			"location": "West Vancouver",
+			"month": "February",
+			"dayLight": "10:56",
+			"hourlyMeanTemperature": "2.8"
+	},
+	{
+			"sub": 15,
+			"location": "West Vancouver",
+			"month": "March",
+			"dayLight": "13:12",
+			"hourlyMeanTemperature": "6.1"
+	},
+	{
+			"sub": 16,
+			"location": "West Vancouver",
+			"month": "April",
+			"dayLight": "14:35",
+			"hourlyMeanTemperature": "9.9"
+	},
+	{
+			"sub": 17,
+			"location": "West Vancouver",
+			"month": "May",
+			"dayLight": "15:57",
+			"hourlyMeanTemperature": "12.2"
+	},
+	{
+			"sub": 18,
+			"location": "West Vancouver",
+			"month": "June",
+			"dayLight": "16:17",
+			"hourlyMeanTemperature": "18.3"
+	},
+	{
+			"sub": 19,
+			"location": "West Vancouver",
+			"month": "July",
+			"dayLight": "16:11",
+			"hourlyMeanTemperature": "19.6"
+	},
+	{
+			"sub": 20,
+			"location": "West Vancouver",
+			"month": "August",
+			"dayLight": "15.08",
+			"hourlyMeanTemperature": "18.7"
+	},
+	{
+			"sub": 21,
+			"location": "Vancouver",
+			"month": "September",
+			"dayLight": "13.27",
+			"hourlyMeanTemperature": "14.6"
+	},
+	{
+			"sub": 22,
+			"location": "West Vancouver",
+			"month": "October",
+			"dayLight": "11.38",
+			"hourlyMeanTemperature": "10.9"
+	},
+	{
+			"sub": 23,
+			"location": "West Vancouver",
+			"month": "November",
+			"dayLight": "9:50",
+			"hourlyMeanTemperature": "6.1"
+	},
+	{
+			"sub": 24,
+			"location": "West Vancouver",
+			"month": "December",
+			"dayLight": "8.37",
+			"hourlyMeanTemperature": "5.2"
+	},
+
+	{
+			"sub": 25,
+			"location": "Richmond",
+			"month": "January",
+			"dayLight": "9:22",
+			"hourlyMeanTemperature": "5.4"
+	},
+	{
+			"sub": 26,
+			"location": "Richmond",
+			"month": "February",
+			"dayLight": "10:57",
+			"hourlyMeanTemperature": "3.5"
+	},
+	{
+			"sub": 27,
+			"location": "Richmond",
+			"month": "March",
+			"dayLight": "13:12",
+			"hourlyMeanTemperature": "6.5"
+	},
+	{
+			"sub": 28,
+			"location": "Richmond",
+			"month": "April",
+			"dayLight": "14:34",
+			"hourlyMeanTemperature": "9.8"
+	},
+	{
+			"sub": 29,
+			"location": "Richmond",
+			"month": "May",
+			"dayLight": "15:55",
+			"hourlyMeanTemperature": "12.7"
+	},
+	{
+			"sub": 30,
+			"location": "Richmond",
+			"month": "June",
+			"dayLight": "16:15",
+			"hourlyMeanTemperature": "17.7"
+	},
+	{
+			"sub": 31,
+			"location": "Richmond",
+			"month": "July",
+			"dayLight": "16:09",
+			"hourlyMeanTemperature": "19.2"
+	},
+	{
+			"sub": 32,
+			"location": "Richmond",
+			"month": "August",
+			"dayLight": "15.08",
+			"hourlyMeanTemperature": "18.7"
+	},
+	{
+			"sub": 33,
+			"location":"Richmond",
+			"month": "September",
+			"dayLight": "13.27",
+			"hourlyMeanTemperature": "14.9"
+	},
+	{
+			"sub": 34,
+			"location": "Richmond",
+			"month": "October",
+			"dayLight": "11.38",
+			"hourlyMeanTemperature": "11.5"
+	},
+	{
+			"sub": 35,
+			"location": "Richmond",
+			"month": "November",
+			"dayLight": "9:51",
+			"hourlyMeanTemperature": "6.6"
+	},
+	{
+			"sub": 36,
+			"location": "Richmond",
+			"month": "December",
+			"dayLight": "8.37",
+			"hourlyMeanTemperature": "5.4"
+	}
+]
